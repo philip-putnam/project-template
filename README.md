@@ -2,7 +2,7 @@
 
 #### _{Brief description of application}, {Date of current version}_
 
-#### By _**{List of contributors}**_
+#### By _**Philip Putnam**_
 
 ## Description
 
@@ -10,9 +10,12 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
+### Method 1:
 * _This is a great place_
 * _to list setup instructions_
 * _in a simple_
+
+### Method 2:
 * _easy-to-understand_
 * _format_
 
@@ -20,18 +23,25 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs at this time_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Please e-mail Philip Putnam, at staplehead989@gmail.com for support with the webpage_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML_
+_CSS_
+_JavaScript_
+_Bootstrap_
+_jQuery_
+_Atom_
+_Git_
+_GitHub_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This webpage is licensed under the MIT license*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_Philip Putnam_**
