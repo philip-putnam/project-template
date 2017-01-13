@@ -11,13 +11,13 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 ## Setup/Installation Requirements
 
 ### Method 1:
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
+* _Using a web browser or terminal, clone the repository at https://github.com/philip-putnam/*PROJECT-NAME* _
+* _In the project folder open the index.html file with a compatible web browser_
+* _Fill in the form on the webpage and hit submit!_
 
 ### Method 2:
-* _easy-to-understand_
-* _format_
+* _Using a compatible web browser, navigate to https://philip-putnam.github.io/*PROJECT-NAME*/_
+* _Fill in the form on the webpage and hit submit!_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
